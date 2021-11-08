@@ -1,0 +1,40 @@
+.itemTable{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    border: 1px solid gray;
+}
+.itemTable_info{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.itemTable_btn{
+    margin-right: 20px;
+}
+button{
+    margin: 2px;
+}
+.inputs{
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    width: 200px;
+}
+form {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+}
+.form_btn{
+    margin-left: 25px;
+}
+.container_input_phone{
+    margin-top: 20px;
+}
+.input_name{
+    width: 100%;
+}
+.input_phone{
+    width: 100%;
+}
